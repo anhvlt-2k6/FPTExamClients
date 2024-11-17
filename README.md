@@ -1,7 +1,7 @@
 > Warning:
 >
 > + This is an under-development build. DO NOT USE IT in real tests. YOU KNOW WHAT WILL HAPPEN THEN!
-> + You use, your responsibility. I just wanted to let you know that I won't be responsible for any damages you have made. 
+> + Your use is your responsibility. I just wanted to let you know that I won't be responsible for any damages you have caused. 
 
 # EOSClient
 
@@ -19,6 +19,6 @@ Chỉ dùng cho việc nghiên cứu và tấn công tiềm năng.
 
 This EOS Client is reverse-engineered and built on .NET 3.5 of Visual Studio 2022 Professional.
 
-If you want to build and run it by yourself, you need to install Visual Studio 2022. Community edition is still accepted, but it is recommended to install the Professional version.
+If you want to build and run it yourself, you need to install Visual Studio 2022. The Community edition is still accepted, but it is recommended that you install the Professional version.
 
 > Note: This build includes personal information logging for debugging, so don't risk yourself by trying to share your own built version. You don't want to leak your information, don't you? Hehe
