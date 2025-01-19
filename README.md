@@ -1,7 +1,7 @@
 > ⚠️Cảnh báo:
 >
 > + Đây là phân mềm thử nghiệm cho EOS Client, không thể và không nên được sử dụng cho bài thi. Hack máy chủ thì 50/50, nhưng hậu quả thì tự chịu
-> + Muốn biết lịch sử đen tối của cái của nợ này à? https://github.com/anhvlt-2k6/EOSClient/blob/main/Story.md
+> + Muốn biết lịch sử đen tối của cái của nợ này à? https://github.com/anhvlt-2k6/EOSClient/blob/master/Story.md
 
 # EOSClient
 
