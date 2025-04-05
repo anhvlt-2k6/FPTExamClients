@@ -150,6 +150,10 @@
       <Project>{6e64375f-7f85-4277-b9aa-4607e0d62c17}</Project>
       <Name>IRemote</Name>
     </ProjectReference>
+    <ProjectReference Include="..\vshost\vshost.csproj">
+      <Project>{6e64375f-7f85-4277-b9aa-4607e0d62c16}</Project>
+      <Name>vshost</Name>
+    </ProjectReference>
   </ItemGroup>
   <ItemGroup>
     <None Include="app.config">

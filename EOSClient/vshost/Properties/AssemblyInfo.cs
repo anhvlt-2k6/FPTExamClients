@@ -1,8 +1,6 @@
 ﻿using System;
-using System.Diagnostics;
 using System.Reflection;
 using System.Resources;
-using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 
 [assembly: AssemblyVersion("9.0.0.0")]

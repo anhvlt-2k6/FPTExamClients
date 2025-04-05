@@ -1,7 +1,4 @@
-﻿using System;
-using System.Diagnostics;
-using System.Reflection;
-using System.Runtime.CompilerServices;
+﻿using System.Reflection;
 
 [assembly: AssemblyVersion("1.0.9200.42353")]
 [assembly: AssemblyTitle("")]
