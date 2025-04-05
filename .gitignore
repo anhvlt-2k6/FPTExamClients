@@ -405,3 +405,4 @@ FodyWeavers.xsd
 
 #Visual Studio cache
 */.vs
+**/*.exe
