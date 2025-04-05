@@ -402,3 +402,6 @@ FodyWeavers.xsd
 *.exam
 *.registerData
 *.gzip
+
+#Visual Studio cache
+*/.vs
