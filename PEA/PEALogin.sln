@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35913.81 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PEALogin", "PEALogin\PEALogin.csproj", "{9D04E1AB-24B2-4541-9F66-19574131C7D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EncryptData", "EncryptData\EncryptData.csproj", "{9D04E1AB-24B2-4541-9F66-19574131C7D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GradeLib", "GradeLib\GradeLib.csproj", "{9D04E1AB-24B2-4541-9F66-19574131C7D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IRemote", "IRemote\IRemote.csproj", "{9D04E1AB-24B2-4541-9F66-19574131C7D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9D04E1AB-24B2-4541-9F66-19574131C7D6}.Debug|x64.ActiveCfg = Debug|x64
+		{9D04E1AB-24B2-4541-9F66-19574131C7D6}.Debug|x64.Build.0 = Debug|x64
+		{9D04E1AB-24B2-4541-9F66-19574131C7D6}.Debug|x86.ActiveCfg = Debug|x86
+		{9D04E1AB-24B2-4541-9F66-19574131C7D6}.Debug|x86.Build.0 = Debug|x86
+		{9D04E1AB-24B2-4541-9F66-19574131C7D6}.Release|x64.ActiveCfg = Release|x64
+		{9D04E1AB-24B2-4541-9F66-19574131C7D6}.Release|x64.Build.0 = Release|x64
+		{9D04E1AB-24B2-4541-9F66-19574131C7D6}.Release|x86.ActiveCfg = Release|x86
+		{9D04E1AB-24B2-4541-9F66-19574131C7D6}.Release|x86.Build.0 = Release|x86
+		{9D04E1AB-24B2-4541-9F66-19574131C7D3}.Debug|x64.ActiveCfg = Debug|x64
+		{9D04E1AB-24B2-4541-9F66-19574131C7D3}.Debug|x64.Build.0 = Debug|x64
+		{9D04E1AB-24B2-4541-9F66-19574131C7D3}.Debug|x86.ActiveCfg = Debug|x86
+		{9D04E1AB-24B2-4541-9F66-19574131C7D3}.Debug|x86.Build.0 = Debug|x86
+		{9D04E1AB-24B2-4541-9F66-19574131C7D3}.Release|x64.ActiveCfg = Release|x64
+		{9D04E1AB-24B2-4541-9F66-19574131C7D3}.Release|x64.Build.0 = Release|x64
+		{9D04E1AB-24B2-4541-9F66-19574131C7D3}.Release|x86.ActiveCfg = Release|x86
+		{9D04E1AB-24B2-4541-9F66-19574131C7D3}.Release|x86.Build.0 = Release|x86
+		{9D04E1AB-24B2-4541-9F66-19574131C7D4}.Debug|x64.ActiveCfg = Debug|x64
+		{9D04E1AB-24B2-4541-9F66-19574131C7D4}.Debug|x64.Build.0 = Debug|x64
+		{9D04E1AB-24B2-4541-9F66-19574131C7D4}.Debug|x86.ActiveCfg = Debug|x86
+		{9D04E1AB-24B2-4541-9F66-19574131C7D4}.Debug|x86.Build.0 = Debug|x86
+		{9D04E1AB-24B2-4541-9F66-19574131C7D4}.Release|x64.ActiveCfg = Release|x64
+		{9D04E1AB-24B2-4541-9F66-19574131C7D4}.Release|x64.Build.0 = Release|x64
+		{9D04E1AB-24B2-4541-9F66-19574131C7D4}.Release|x86.ActiveCfg = Release|x86
+		{9D04E1AB-24B2-4541-9F66-19574131C7D4}.Release|x86.Build.0 = Release|x86
+		{9D04E1AB-24B2-4541-9F66-19574131C7D5}.Debug|x64.ActiveCfg = Debug|x64
+		{9D04E1AB-24B2-4541-9F66-19574131C7D5}.Debug|x64.Build.0 = Debug|x64
+		{9D04E1AB-24B2-4541-9F66-19574131C7D5}.Debug|x86.ActiveCfg = Debug|x86
+		{9D04E1AB-24B2-4541-9F66-19574131C7D5}.Debug|x86.Build.0 = Debug|x86
+		{9D04E1AB-24B2-4541-9F66-19574131C7D5}.Release|x64.ActiveCfg = Release|x64
+		{9D04E1AB-24B2-4541-9F66-19574131C7D5}.Release|x64.Build.0 = Release|x64
+		{9D04E1AB-24B2-4541-9F66-19574131C7D5}.Release|x86.ActiveCfg = Release|x86
+		{9D04E1AB-24B2-4541-9F66-19574131C7D5}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58BE496C-B4D3-48AA-B7BA-3FE1EE978398}
+	EndGlobalSection
+EndGlobal
